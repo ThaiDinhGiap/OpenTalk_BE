@@ -59,5 +59,5 @@ Manage Opentalk Web is a system for managing Opentalk sessions within the compan
 - Customizing results using Class Constructors and Spring Data Projection.
 - Sorting & Pagination with JPQL and native queries, comparison with Slice.
 - Implementing query caching.
-## 4.5 Testing
+### 4.5 Testing
 - Implementing Unit & Integration Testing.
